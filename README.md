@@ -45,11 +45,14 @@ A customized version of 2048 with combo, zero tile, and dimension mechanics.
 
 ## Author
 
-**M4ng0D0g**
+**113703026 陳嘉佑**
 
 ## Disclaimer
 
 This is a personal project implementing advanced merging mechanics inspired by 2048.
 
----
+## Academic Notice
 
+⚠️ **This project was created as part of OOP Homework 7. Please do not plagiarize or copy this code for academic submissions.**
+
+---
