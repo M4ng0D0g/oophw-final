@@ -1,0 +1,61 @@
+# 編譯產生的中間檔案
+*.o
+*.obj
+*.lo
+*.so
+*.a
+*.lib
+*.dll
+
+# 編譯產生的執行檔
+*.exe
+*.out
+*.app
+
+# CMake 相關中間資料夾
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ninja 相關
+build.ninja
+.ninja_deps
+.ninja_log
+
+# CLion / VSCode / IDE 相關
+.idea/
+.vscode/
+*.code-workspace
+
+# 日誌檔與暫存檔
+*.log
+*.tmp
+*.temp
+
+# gdb 或 core dump 相關
+core.*
+*.core
+
+# 自動生成的文檔
+docs/html/
+docs/xml/
+
+# 測試輸出資料
+test_output/
+
+# 編譯產生的 build 目錄
+build/
+bin/
+dist/
+
+# macOS 系統垃圾檔案
+.DS_Store
+
+# Windows 系統垃圾檔案
+Thumbs.db
+
+# 忽略自定義的密鑰或私密設定（如果有）
+secrets.json
+config.local.json
+.env

@@ -1,0 +1,3 @@
+/home/chiayu/programming/oopfinal/build/CMakeFiles/exec.dir
+/home/chiayu/programming/oopfinal/build/CMakeFiles/edit_cache.dir
+/home/chiayu/programming/oopfinal/build/CMakeFiles/rebuild_cache.dir
